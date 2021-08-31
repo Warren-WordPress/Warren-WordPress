@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Warren-WordPress
-- 👀 I’m interested in WordPress, LearnDash, OxygenBuilder, Paid Memberships Pro, OxyNinja, ContactForm7, and more!
-- 🌱 I’m currently learning alot!
+- 👀 I’m interested in WordPress, Multisite, MAMP Pro, LearnDash, OxygenBuilder, Paid Memberships Pro, OxyNinja, ContactForm7, and more!
+- 🌱 I’m currently learning alot! I write php and have customized the WP admin on my local installs via my own plugins.
 - 💞️ I’m looking to collaborate on web apps built on WordPress using OxygenBuilder!
 - 📫 How to reach me ... I'll be setting this up soon.
 
